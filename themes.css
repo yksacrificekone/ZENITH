@@ -1,0 +1,12 @@
+/* Preset themes. Each is applied by copying its variables onto :root
+   via JS (js/ui/theme.js) — these classes also exist so the little preview
+   swatches in the appearance page can render without JS. */
+
+.theme-preview-midnight{background:linear-gradient(135deg,#14151c,#0a0b10);}
+.theme-preview-violet{background:linear-gradient(135deg,#241a3d,#6c5ce7);}
+.theme-preview-crimson{background:linear-gradient(135deg,#2b1114,#e84855);}
+.theme-preview-forest{background:linear-gradient(135deg,#0f1f18,#2fbf71);}
+.theme-preview-sunset{background:linear-gradient(135deg,#2b1a12,#f5934b);}
+.theme-preview-ocean{background:linear-gradient(135deg,#0d1b2a,#3aa6ff);}
+.theme-preview-mono{background:linear-gradient(135deg,#111,#555);}
+.theme-preview-light{background:linear-gradient(135deg,#f4f5f9,#dbe0ee);}
